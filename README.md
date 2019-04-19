@@ -1,2 +1,6 @@
-# PeopleCounting
-CI框架实现的图书馆人流统计
+人流统计
+
+#### 技术栈
+- PHP CI框架
+- jQuery
+- Echarts
